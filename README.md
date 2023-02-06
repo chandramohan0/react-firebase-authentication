@@ -35,8 +35,13 @@ npm start
 ## Features
 
 * User sign up
+* User log in
+* User log out
 
 ## Technology Stack
+
+* React
+* Firebase
 
 ## Contributing
 Feel free to contribute to this project by submitting a pull request.
